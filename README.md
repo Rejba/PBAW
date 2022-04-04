@@ -7,4 +7,4 @@ Zad 3 i 4 - szablonowanie
 
 Zad 5 i 6 - kontrolerGlowny_obiektowosc 
 
-zad 6a- nowaStruktura
+zad 6a i 6b - nowaStruktura_namespaces
